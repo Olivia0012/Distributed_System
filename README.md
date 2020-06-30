@@ -1,1 +1,1 @@
-# Distributed_System
+# distributed-whiteboard
